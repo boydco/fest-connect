@@ -1,0 +1,7 @@
+{ "places": {
+    "place": [
+      { "place_id": "K_AIoiZTWrwA2yTAkA", "woeid": "28642762", "latitude": -41.283, "longitude": "174.775", "place_url": "\/New+Zealand\/Wellington\/Wellington\/Lambton", "place_type": "neighbourhood", "place_type_id": 22, "timezone": "Pacific\/Auckland", "name": "Lambton, Wellington, Wellington, NZ, New Zealand", "woe_name": "Lambton" }
+    ], "latitude": -41.2889, "longitude": "174.7772", "accuracy": 11, "total": 1 }, "stat": "ok" }
+
+// PLACE URL TEST
+// https://api.flickr.com/services/rest/?method=flickr.places.findByLatLon&api_key=b402e64899bd1420bd2122387bcdc044&lat=-41.2889&lon=174.7772&accuracy=11&format=json&nojsoncallback=1&auth_token=72157662042424041-23715ef18fec747f&api_sig=543cd4b2efab2f5aec7b9bb255dcecbc

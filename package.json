@@ -1,0 +1,31 @@
+{
+  "name": "fest-connect",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boydco/fest-connect/issues"
+  },
+  "homepage": "https://github.com/boydco/fest-connect#readme",
+  "jspm": {
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
+  },
+  "devDependencies": {
+    "jspm": "^0.16.15"
+  },
+  "dependencies": {
+    "dotenv": "^1.2.0",
+    "flickrapi": "^0.3.36"
+  }
+}
