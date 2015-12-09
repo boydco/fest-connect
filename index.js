@@ -49,6 +49,7 @@ var paramsWellington = {
    //console.log(photoIds)
  });
 
+// this passes in photoID information of each element of photoIds object, then it loads contentURL which takes the URL of each individual photoId.
   const getPhotoInfo = ( photoId ) => {
     flickr.get ("photos.getInfo", {photo_id: photoId}, function(err, result){
       if (err) return console.error(err)
